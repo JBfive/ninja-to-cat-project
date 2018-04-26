@@ -1,0 +1,15 @@
+*{
+	margin: 0px;
+	padding: 0px;
+} 
+#container{
+	width: 600px;
+	height: 600px;
+	background-color: grey;
+}
+.section {
+	width: 400px;
+}
+img{
+	width: 400px;
+}
